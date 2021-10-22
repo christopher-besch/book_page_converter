@@ -1,0 +1,253 @@
+{
+    "versions": [
+        "Abi-Box",
+        "dtv"
+    ],
+    "points": [
+        {
+            "name": "Im Himmel, ganz oben",
+            "vals": [
+                3,
+                7
+            ]
+        },
+        {
+            "name": "Seit meinem letzten Aufenthalt",
+            "vals": [
+                15,
+                22
+            ]
+        },
+        {
+            "name": "Eine halbe Fahrstunde von Salzburg",
+            "vals": [
+                23,
+                32
+            ]
+        },
+        {
+            "name": "Während der neue Ofen",
+            "vals": [
+                37,
+                49
+            ]
+        },
+        {
+            "name": "Nach einem zweitägigen kurzen Antäuschen",
+            "vals": [
+                46,
+                60
+            ]
+        },
+        {
+            "name": "In der Früh ertrug ich",
+            "vals": [
+                67,
+                72
+            ]
+        },
+        {
+            "name": "Am Freitag wurden in Darmstadt",
+            "vals": [
+                76,
+                85
+            ]
+        },
+        {
+            "name": "Susi hat mich bei der Straßenbahn",
+            "vals": [
+                87,
+                97
+            ]
+        },
+        {
+            "name": "Wie‘s mir geht?",
+            "vals": [
+                101,
+                111
+            ]
+        },
+        {
+            "name": "Den ganzen Tag Schneegestöber",
+            "vals": [
+                101,
+                129
+            ]
+        },
+        {
+            "name": "Der März war ungewöhnlich",
+            "vals": [
+                116,
+                147
+            ]
+        },
+        {
+            "name": "Der Elternbesuchstag",
+            "vals": [
+                128,
+                163
+            ]
+        },
+        {
+            "name": "Der Brasilianer wurde nicht über Nacht",
+            "vals": [
+                139,
+                175
+            ]
+        },
+        {
+            "name": "In den Dschungeln Schwarzindiens",
+            "vals": [
+                149,
+                188
+            ]
+        },
+        {
+            "name": "Da ich keine Beziehungserfahrung",
+            "vals": [
+                159,
+                200
+            ]
+        },
+        {
+            "name": "In der Früh packte ich",
+            "vals": [
+                172,
+                216
+            ]
+        },
+        {
+            "name": "Ich bin noch immer ganz verwirrt",
+            "vals": [
+                183,
+                230
+            ]
+        },
+        {
+            "name": "Der Abschied von Wien",
+            "vals": [
+                195,
+                245
+            ]
+        },
+        {
+            "name": "Wie ich in der Lebenszeichenkarte",
+            "vals": [
+                211,
+                264
+            ]
+        },
+        {
+            "name": "In der zweiten Juliwoche",
+            "vals": [
+                223,
+                279
+            ]
+        },
+        {
+            "name": "Aus dem Misthaufen stieg Rauch auf",
+            "vals": [
+                234,
+                293
+            ]
+        },
+        {
+            "name": "Den Onkel traf ich im Freien",
+            "vals": [
+                243,
+                304
+            ]
+        },
+        {
+            "name": "Die Leiche des Mädchens Annemarie Schaller",
+            "vals": [
+                254,
+                318
+            ]
+        },
+        {
+            "name": "Es ist immer noch hell genug zum Schreiben",
+            "vals": [
+                264,
+                330
+            ]
+        },
+        {
+            "name": "Ich schaute mich in den Zimmern um",
+            "vals": [
+                273,
+                341
+            ]
+        },
+        {
+            "name": "Bald ein ganzes Jahr",
+            "vals": [
+                285,
+                356
+            ]
+        },
+        {
+            "name": "Es sind vom Eichbaumeck",
+            "vals": [
+                297,
+                370
+            ]
+        },
+        {
+            "name": "Die Sache ging sehr rasch",
+            "vals": [
+                308,
+                384
+            ]
+        },
+        {
+            "name": "Deutsche Einheiten auf dem Rückzug",
+            "vals": [
+                320,
+                399
+            ]
+        },
+        {
+            "name": "So tauche ich wieder in den Winter ein",
+            "vals": [
+                337,
+                419
+            ]
+        },
+        {
+            "name": "Der Westbahnhof war dick verqualmt",
+            "vals": [
+                343,
+                427
+            ]
+        },
+        {
+            "name": "Seit es mit Margot",
+            "vals": [
+                355,
+                443
+            ]
+        },
+        {
+            "name": "Ich saß auf dem Fensterbrett",
+            "vals": [
+                366,
+                457
+            ]
+        },
+        {
+            "name": "Wir warteten auf das Milchauto",
+            "vals": [
+                380,
+                474
+            ]
+        },
+        {
+            "name": "Nachbemerkungen",
+            "vals": [
+                382,
+                477
+            ]
+        }
+    ]
+}

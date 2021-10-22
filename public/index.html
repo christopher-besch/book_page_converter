@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Book Page Converter</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/jpg" href="favicon.jpg"/>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href=".">Book Page Converter</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="navbar-nav">
+                <a class="nav-link" aria-current="page" href="https://github.com/christopher-besch/book_page_converter">Source</a>
+            </div>
+        </div>
+    </div>
+</nav>
+<div class="container">
+    
+    <h1 id="book-title" class="mt-4"></h1>
+
+    <ul id="possible-books"></ul>
+
+    <div id="ui" class="mt-5">
+        <div class="row align-items-start">
+            <div class="col">
+                <select id="version1-select" class="form-select form-select-lg mb-2"></select>
+                <input type="number" class="form-control" id="version1-input" value="0">
+            </div>
+            <div class="col position-relative">
+                <button id="convert-left" class="btn btn-primary position-absolute end-50 me-2">Convert Left</button>
+                <button id="convert-right" class="btn btn-primary position-absolute start-50 ms-2">Convert Rigth</button>
+            </div>
+            <div class="col">
+                <select id="version2-select" class="form-select form-select-lg mb-2"></select>
+                <input type="number" class="form-control" id="version2-input" value="0">
+            </div>
+        </div>
+    </div>
+    <p id="chapter" class="mt-3">Chapter: Input a page number to display.</p>
+
+</div>
+
+<footer class="page-footer font-small mt-auto">
+    <div class="footer-copyright text-center py-3">
+        &#169; 2021
+        <a href="https://github.com/christopher-besch">Christopher Besch</a>
+        <a class="ms-2" href="https://github.com/christopher-besch/book_page_converter/blob/main/LICENSE">License</a>
+    </div>
+</footer>
+
+<script src="index.js"></script>
+</body>
+
+</html>
